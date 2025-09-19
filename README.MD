@@ -169,27 +169,27 @@ The comprehensive analysis of the Indian banking sector's stock market data yiel
 
 *   **Trend in closing Prices over the Week:**
 
-![Trend in Closing Prices](Charts\Weekly_Trend_Over_Time.png)
+![Trend in Closing Prices](Charts/Weekly_Trend_Over_Time.png)
 
 *   **days with unusually high delivery % and low number of trades:**
 
-![Those Unusual Days are Marked](Charts\Unusual_Days.png)
+![Those Unusual Days are Marked](Charts/Unusual_Days.png)
 
 *   **Number of Trades relate to Turnover and Volume:**
 
-![Chart Shows Relationship](Charts\NumberOfSharesVsTradesVsTurnover.png)
+![Chart Shows Relationship](Charts/NumberOfSharesVsTradesVsTurnover.png)
 
 *   **WAP vs Number of Shares:**
 
-![Chart Shows Relationship](Charts\WAP_vs_No_Of_Shares.gif)
+![Chart Shows Relationship](Charts/WAP_vs_No_Of_Shares.gif)
 
 *   **Volatility Index Analysis:**
 
-![Chart Shows Values](Charts\Volatility_Index.gif)
+![Chart Shows Values](Charts/Volatility_Index.gif)
 
 *   **relationship between closing prices and Weighted Average prices:**
 
-![Chart Shows Relationship](Charts\WAP_vs_Close.png)
+![Chart Shows Relationship](Charts/WAP_vs_Close.png)
 
 
 These findings provide a snapshot of the performance and trading characteristics of the Indian banking stocks over the analyzed period. The high turnover of Yes Bank, for instance, suggests significant investor interest and trading activity, while the high closing price of Kotak Mahindra Bank indicates strong market valuation. The significant number of days with positive price movement points towards a generally bullish trend in the banking sector during this period. The identification of days with high delivery percentage and low trades could be indicative of strategic buying by institutional investors, a valuable insight for retail investors.
